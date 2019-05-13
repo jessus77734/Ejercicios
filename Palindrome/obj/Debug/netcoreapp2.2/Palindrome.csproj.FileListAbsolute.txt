@@ -1,0 +1,11 @@
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\bin\Debug\netcoreapp2.2\Palindrome.deps.json
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\bin\Debug\netcoreapp2.2\Palindrome.runtimeconfig.json
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\bin\Debug\netcoreapp2.2\Palindrome.runtimeconfig.dev.json
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\bin\Debug\netcoreapp2.2\Palindrome.dll
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\bin\Debug\netcoreapp2.2\Palindrome.pdb
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\obj\Debug\netcoreapp2.2\Palindrome.csprojAssemblyReference.cache
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\obj\Debug\netcoreapp2.2\Palindrome.csproj.CoreCompileInputs.cache
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\obj\Debug\netcoreapp2.2\Palindrome.AssemblyInfoInputs.cache
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\obj\Debug\netcoreapp2.2\Palindrome.AssemblyInfo.cs
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\obj\Debug\netcoreapp2.2\Palindrome.dll
+D:\ALMACENAMIENTO\Documentos\EjerciciosC#\Palindrome\Palindrome\obj\Debug\netcoreapp2.2\Palindrome.pdb
